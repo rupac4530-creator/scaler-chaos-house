@@ -1,0 +1,6 @@
+# IDE stuff
+.idea/
+.vscode/
+
+# raw extracted files from docx
+extracted_images/
